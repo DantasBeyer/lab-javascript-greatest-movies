@@ -2001,7 +2001,12 @@ const movies = [
     score: 8
   }
 ];
+//const dramaMoviesScore = movies.filter(function(movies){
+  //if (movies.genre == 'Drama'){
+  //return true;
+//}
+//});
+//console.log (dramaMoviesScore);
+//if (typeof module !== 'undefined') {
+//module.exports = movies;
 
-if (typeof module !== 'undefined') {
-  module.exports = movies;
-}
